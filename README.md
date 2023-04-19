@@ -15,7 +15,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Spider-Calvin)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
